@@ -4,6 +4,10 @@ A menu bar sound enhancer for macOS. TapEQ captures every app's audio with a Cor
 Audio **process tap**, runs it through its own effect chain, and plays the result on
 your output device. No virtual audio driver is installed.
 
+<p align="center">
+  <img src="docs/screenshot.png" width="354" alt="TapEQ menu bar panel: power switch, ASCII spectrum, presets, five effect sliders and a 10-band equalizer curve">
+</p>
+
 From the menu bar panel you get:
 
 - an on/off switch (off = apps play normally)
